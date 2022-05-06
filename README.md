@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am [teddymail](https://github.com/teddymail) 👋, Here is my [blog`s~](http://yuekang.org.cn)(博客)
 
 <!--
 **teddymail/teddymail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
